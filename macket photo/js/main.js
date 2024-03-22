@@ -59,10 +59,5 @@
     });
 })();
 
-const elements = document.querySelectorAll('h4')
-console.log(elements.length);
-for (let i = 0; i < elements.length; i++) {
-    console.log(elements[i])
-}
-elements[i].innerHTML = 'хуй саси';
+
 
